@@ -1,0 +1,11 @@
+C:\Users\minea\source\repos\PDE2_FRONTEND\PDE2_FRONTEND\bin\Debug\PDE2_FRONTEND.exe.config
+C:\Users\minea\source\repos\PDE2_FRONTEND\PDE2_FRONTEND\bin\Debug\PDE2_FRONTEND.exe
+C:\Users\minea\source\repos\PDE2_FRONTEND\PDE2_FRONTEND\bin\Debug\PDE2_FRONTEND.pdb
+C:\Users\minea\source\repos\PDE2_FRONTEND\PDE2_FRONTEND\obj\Debug\PDE2_FRONTEND.csprojAssemblyReference.cache
+C:\Users\minea\source\repos\PDE2_FRONTEND\PDE2_FRONTEND\obj\Debug\PDE2_FRONTEND.Properties.Resources.resources
+C:\Users\minea\source\repos\PDE2_FRONTEND\PDE2_FRONTEND\obj\Debug\PDE2_FRONTEND.ResultsForm.resources
+C:\Users\minea\source\repos\PDE2_FRONTEND\PDE2_FRONTEND\obj\Debug\PDE2_FRONTEND.SetupForm.resources
+C:\Users\minea\source\repos\PDE2_FRONTEND\PDE2_FRONTEND\obj\Debug\PDE2_FRONTEND.csproj.GenerateResource.cache
+C:\Users\minea\source\repos\PDE2_FRONTEND\PDE2_FRONTEND\obj\Debug\PDE2_FRONTEND.csproj.CoreCompileInputs.cache
+C:\Users\minea\source\repos\PDE2_FRONTEND\PDE2_FRONTEND\obj\Debug\PDE2_FRONTEND.exe
+C:\Users\minea\source\repos\PDE2_FRONTEND\PDE2_FRONTEND\obj\Debug\PDE2_FRONTEND.pdb
